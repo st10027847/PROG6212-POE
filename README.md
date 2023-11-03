@@ -1,4 +1,4 @@
-**How TO USE THE PROGRAM**
+**HOW TO USE THE PROGRAM**
 
 In order to use the program, there are a few pre-requisites:
 
